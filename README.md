@@ -377,16 +377,3 @@ Provides a consistent development and deployment environment.
 * Monitoring with Prometheus and Grafana
 * Retry backoff strategies
 * Event idempotency handling
-
----
-
-# Author
-
-Sivanandu
-Computer Science Engineering Student
-
----
-
-# License
-
-This project is licensed under the MIT License.
